@@ -90,6 +90,12 @@
     <Compile Include="frmPrincipal.Designer.cs">
       <DependentUpon>frmPrincipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Maestros\frmClase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maestros\frmClase.Designer.cs">
+      <DependentUpon>frmClase.cs</DependentUpon>
+    </Compile>
     <Compile Include="Maestros\frmProducto.cs">
       <SubType>Form</SubType>
     </Compile>
